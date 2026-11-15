@@ -7,7 +7,7 @@ authors:
   - family-names: "Dilsiz"
     given-names: "Kamuran"
 license: MIT
-repository-code: "https://github.com/<user>/thermal-noise-rc-estimation"
+repository-code: "https://github.com/mcoskun14/thermal-noise-rc-estimation"
 keywords:
   - thermal noise
   - power spectral density
